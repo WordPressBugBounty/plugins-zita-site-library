@@ -1,14 +1,14 @@
-=== Zita Elementor Site Library ===
+=== Zita Site Library for Elementor ===
 Contributors: wpzita
 Donate link: https://wpzita.com/
-Tags: demo, theme demos, one click import
-Requires at least: 5.5
-Tested up to: 6.8
-Stable tag: 1.6.5
+Tags: website, elementor, templates
+Requires at least: 6.6
+Tested up to: 6.9
+Stable tag: 1.6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Using Zita Elementor site library Import pre made Elementor websites in just one click install.
+Using Zita Site Library for Elementor Import pre made Elementor websites in just one click install.
 
 == Description ==
 
@@ -28,6 +28,11 @@ Zita site library is a addon plugin for Zita WordPress theme. This plugin contai
 4. View website.
 
 == Changelog ==
+= Version 1.6.7 27/01/2026 =
+* Fix: Security issue fixed.
+
+= Version 1.6.6 06/10/2025 =
+* Update: Trademark Guidelines section has been removed.
 
 = Version 1.6.5 18/04/2025 =
 * Update: Purchase text changed to Buy Now.
